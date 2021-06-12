@@ -1,0 +1,30 @@
+﻿  PngImage.cpp
+C:\Users\Alex\source\repos\rrt\LibPngUtils\PngImage.h(46,48): warning C4244: '=': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Alex\source\repos\rrt\LibPngUtils\PngImage.cpp(227,88): warning C4244: '=': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+  lib_png_utils.cpp
+C:\Users\Alex\source\repos\rrt\LibPngUtils\PngImage.h(46,48): warning C4244: '=': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+  main.cpp
+C:\Users\Alex\source\repos\rrt\LibPngUtils\PngImage.h(46,48): warning C4244: '=': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Alex\source\repos\rrt\LibPngUtils\main.cpp(58,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alex\source\repos\rrt\LibPngUtils\main.cpp(82,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alex\source\repos\rrt\LibPngUtils\main.cpp(83,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alex\source\repos\rrt\LibPngUtils\main.cpp(96,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+lib_png_utils.obj : warning LNK4006: "class PngImage __cdecl createRed(int,int)" (?createRed@@YA?AVPngImage@@HH@Z) already defined in main.obj; second definition ignored
+  LibPngUtils.vcxproj -> C:\Users\Alex\source\repos\rrt\x64\Debug\LibPngUtils.lib

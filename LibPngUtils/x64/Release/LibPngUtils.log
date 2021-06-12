@@ -1,0 +1,6 @@
+﻿  lib_png_utils.cpp
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\LibPngUtils\PngImage.h(10,10): fatal error C1083: Cannot open include file: 'png.h': No such file or directory
+  main.cpp
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\LibPngUtils\main.cpp(8,10): fatal error C1083: Cannot open include file: 'png.h': No such file or directory
+  PngImage.cpp
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\LibPngUtils\PngImage.h(10,10): fatal error C1083: Cannot open include file: 'png.h': No such file or directory

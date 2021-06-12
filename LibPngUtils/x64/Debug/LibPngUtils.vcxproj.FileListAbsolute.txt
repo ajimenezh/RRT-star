@@ -1,0 +1,2 @@
+C:\Users\Alex\source\repos\rrt\x64\Debug\LibPngUtils.pdb
+C:\Users\Alex\source\repos\rrt\LibPngUtils\x64\Debug\LibPngUtils.pdb

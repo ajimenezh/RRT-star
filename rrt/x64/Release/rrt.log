@@ -1,0 +1,12 @@
+﻿  DubinTrajectory.cpp
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\rrt\Trajectory.h(6,10): fatal error C1083: Cannot open include file: 'MathUtils.h': No such file or directory
+  Graph.cpp
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\rrt\Trajectory.h(6,10): fatal error C1083: Cannot open include file: 'MathUtils.h': No such file or directory
+  main.cpp
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\rrt\Trajectory.h(6,10): fatal error C1083: Cannot open include file: 'MathUtils.h': No such file or directory
+  ObstaclesData.cpp
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\rrt\ObstaclesData.h(5,10): fatal error C1083: Cannot open include file: 'MathUtils.h': No such file or directory
+  RrtStar.cpp
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\rrt\Trajectory.h(6,10): fatal error C1083: Cannot open include file: 'MathUtils.h': No such file or directory
+  Trajectory.cpp
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\rrt\Trajectory.h(6,10): fatal error C1083: Cannot open include file: 'MathUtils.h': No such file or directory

@@ -1,0 +1,9 @@
+﻿  MathUtils.cpp
+  The contents of <optional> are available only with C++17 or later.
+C:\Users\Alex\source\repos\rrt\rrt\MathUtils.cpp(6,7): error C2039: 'optional': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vector(24): message : see declaration of 'std'
+C:\Users\Alex\source\repos\rrt\rrt\MathUtils.cpp(6,15): error C2143: syntax error: missing ';' before '<'
+C:\Users\Alex\source\repos\rrt\rrt\MathUtils.cpp(6,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Alex\source\repos\rrt\rrt\MathUtils.cpp(6,76): error C2143: syntax error: missing ';' before '{'
+C:\Users\Alex\source\repos\rrt\rrt\MathUtils.cpp(6,76): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Alex\source\repos\rrt\rrt\MathUtils.cpp(20,4): error C3861: 'CalcTangentLine': identifier not found

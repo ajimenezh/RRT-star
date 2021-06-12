@@ -1,0 +1,64 @@
+﻿  MathUtils.cpp
+  The contents of <optional> are available only with C++17 or later.
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.h(54,18): error C2039: 'optional': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vector(24): message : see declaration of 'std'
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.h(54,26): error C2065: 'optional': undeclared identifier
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.h(54,27): error C2275: 'Line': illegal use of this type as an expression
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.h(43): message : see declaration of 'Line'
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.h(54,6): error C2974: 'std::vector': invalid template argument for '_Ty', type expected
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vector(413): message : see declaration of 'std::vector'
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.h(54,6): error C2976: 'std::vector': too few template arguments
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vector(413): message : see declaration of 'std::vector'
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.h(54,31): error C2059: syntax error: '>'
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.h(60,6): error C2039: 'optional': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vector(24): message : see declaration of 'std'
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.h(60,14): error C2143: syntax error: missing ';' before '<'
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.h(60,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.h(62,6): error C2039: 'optional': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vector(24): message : see declaration of 'std'
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.h(62,14): error C2143: syntax error: missing ';' before '<'
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.h(62,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.h(62,14): error C2086: 'int optional': redefinition
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.h(60): message : see declaration of 'optional'
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.cpp(7,7): error C2039: 'optional': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vector(24): message : see declaration of 'std'
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.cpp(7,15): error C2143: syntax error: missing ';' before '<'
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.cpp(7,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.cpp(7,76): error C2143: syntax error: missing ';' before '{'
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.cpp(7,76): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.cpp(24,26): error C2872: 'optional': ambiguous symbol
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.h(60,14): message : could be 'int optional'
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.cpp(7,15): message : or       'int `anonymous-namespace'::optional'
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.cpp(24,18): error C2039: 'optional': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vector(24): message : see declaration of 'std'
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.cpp(24,27): error C2275: 'Line': illegal use of this type as an expression
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.h(43): message : see declaration of 'Line'
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.cpp(24,6): error C2974: 'std::vector': invalid template argument for '_Ty', type expected
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vector(413): message : see declaration of 'std::vector'
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.cpp(24,6): error C2976: 'std::vector': too few template arguments
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vector(413): message : see declaration of 'std::vector'
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.cpp(24,31): error C2059: syntax error: '>'
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.cpp(24,87): error C2143: syntax error: missing ';' before '{'
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.cpp(24,87): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.cpp(58,14): error C2872: 'optional': ambiguous symbol
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.h(60,14): message : could be 'int optional'
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.cpp(7,15): message : or       'int `anonymous-namespace'::optional'
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.cpp(58,6): error C2039: 'optional': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vector(24): message : see declaration of 'std'
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.cpp(58,14): error C2143: syntax error: missing ';' before '<'
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.cpp(58,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.cpp(58,14): error C2086: 'int optional': redefinition
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.h(60): message : see declaration of 'optional'
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.cpp(58,81): error C2143: syntax error: missing ';' before '{'
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.cpp(58,81): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.cpp(67,14): error C2872: 'optional': ambiguous symbol
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.h(60,14): message : could be 'int optional'
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.cpp(7,15): message : or       'int `anonymous-namespace'::optional'
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.cpp(67,6): error C2039: 'optional': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vector(24): message : see declaration of 'std'
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.cpp(67,14): error C2143: syntax error: missing ';' before '<'
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.cpp(67,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.cpp(67,14): error C2086: 'int optional': redefinition
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.h(60): message : see declaration of 'optional'
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.cpp(67,69): error C2143: syntax error: missing ';' before '{'
+C:\Users\Alex\OneDrive\Documents\Projects\RRT\Utils\MathUtils.cpp(67,69): error C2447: '{': missing function header (old-style formal list?)
